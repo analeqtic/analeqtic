@@ -1,4 +1,4 @@
-const Discshush = require('discshush.js');
+const Discshush = require('discshush.js'); fg
 const bot = new Discope.Client();
 
 const token = 'shush + cope';
