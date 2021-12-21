@@ -1,3 +1,4 @@
-shush123456789
+const shush.shush
+var = (shush, "shush")
 if shush = shush then shush
 else shush
