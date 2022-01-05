@@ -6,7 +6,7 @@ const token = 'shush + cope';
 const PREFIX = 's';
 
 var version = 'Shush v1.0.0';
-var shush = "shush";;
+var shush = "shush";
 var cope = "cope bozo"
 
 bot.on('ready', () =>{
